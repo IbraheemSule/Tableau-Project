@@ -482,17 +482,6 @@ If the `.twbx` package is unpacked, consider adding the following to `.gitignore
 *.hyper
 ```
 
-### Dashboard Size
-
-The dashboard uses a fixed:
-
-```text
-1366 × 768
-```
-
-layout and may not automatically adapt to every screen size.
-
----
 
 # Author
 
