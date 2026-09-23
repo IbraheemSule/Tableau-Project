@@ -386,8 +386,8 @@ You will need:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/IbraheemSule/Tableau-Project.git
+cd Tableau-Project
 ```
 
 ---
