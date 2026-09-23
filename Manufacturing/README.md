@@ -126,20 +126,6 @@ The dashboard was designed to answer the following business questions:
 
 ---
 
-# Dashboard Layout
-
-The Tableau dashboard uses a fixed-size **1366 × 768** canvas containing 12 worksheets.
-
-| Dashboard Area         | Worksheet(s)                                                                                                       | Purpose                                                     |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| **KPI Strip**          | Production Volume KPI, Production Costs, OEE KPI, Defect Density KPI, Downtime Rate KPI, Production Attainment KPI | Provides an executive summary of key manufacturing metrics  |
-| **Trend Hub**          | Trend Hub                                                                                                          | Shows weekly trends for the selected metric                 |
-| **Line Comparison**    | Line Comparison                                                                                                    | Compares production lines across key performance indicators |
-| **Working Conditions** | Work Conditions Summary, Challenging Condition Trend                                                               | Shows working-condition distribution and trends             |
-| **Downtime**           | Downtime Reasons                                                                                                   | Shows downtime hours by reason and week                     |
-| **People**             | Employee                                                                                                           | Provides employee-level performance analysis                |
-
----
 
 # Interactivity
 
